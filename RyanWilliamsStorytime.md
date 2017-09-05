@@ -9,4 +9,6 @@ Please type something inside your own name area.
 
 ## Ben Contribution
 
+I would like to think that I am contributing something worthwhile. It probably is. This time.
+
 ## Jeremy Contribution
