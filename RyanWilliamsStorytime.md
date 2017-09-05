@@ -10,3 +10,7 @@ Please type something inside your own name area.
 ## Ben Contribution
 
 ## Jeremy Contribution
+
+I had some cake from Vietnam today.
+It was a moon cake.
+It was from Vu Nguyen.
